@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    scroll-behavior: smooth;
     font-size: 18px;
     flex-wrap: wrap;
     font-family: 'Open Sans',sans-serif;
@@ -207,6 +208,7 @@ button:focus{outline:none}
     border-radius: 20px;
     
 }
+i:hover {cursor:pointer}
 .bottom p{
     margin-top: 200px;
     font-size: 14px;
